@@ -1,47 +1,61 @@
+# 👋 Hi, I'm Pawan Kumar  
 
-# Welcome to Pawan Kumar's GitHub Profile!
+Welcome to my GitHub profile! I'm a **final-year B.Tech student at NIT Agartala** and a passionate **Full Stack Developer** with experience in building scalable, production-ready web applications.  
 
-👋 Hi there! Welcome to my GitHub profile. I'm Pawan Kumar, a passionate software developer specializing in both frontend and backend development. With expertise in React.js, Next.js, Express.js, Node.js, MongoDB, and more, I thrive on challenges and am dedicated to delivering excellence. I'm eager to learn, grow, and contribute to innovative projects.
+I specialize in **React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, Tailwind CSS, and Low-Level Design (LLD)**, and I enjoy solving complex problems with clean, efficient solutions.  
 
-## About Me
+---
 
-I'm a results-driven developer with a strong foundation in both frontend and backend technologies. My experience spans across creating dynamic and responsive user interfaces using React.js and Next.js, as well as building robust server-side applications with Express.js and Node.js. I have a keen eye for detail and a passion for crafting elegant solutions to complex problems.
+## 🚀 About Me  
 
-## Projects Overview
+- 💻 **Full Stack Developer Intern @ Bulk Global Tech** – Built the Global Button Sender & official company website using Next.js & TypeScript.  
+- 🌐 **Freelance Web Developer @ Satyarama Group** – Delivered a responsive Next.js + Tailwind CSS business website (95+ Lighthouse score, 60% faster load time).  
+- 🏗️ Skilled in **Low-Level Design (LLD)** – applying OOP and design principles to architect modular, maintainable, and scalable systems.  
+- 🏆 Competitive Programmer – Solved **340+ problems on LeetCode** (Top 9.8%, Max Rating: 1824) & **250+ on GeeksforGeeks** (Institute Rank 162).  
 
-Here's a glimpse of the projects you'll find in this repository:
+---
 
-1. **[Foodly](https://github.com/F00DLY/foodly)** - College Food Ordering Web Application.
-2. **[MusicSchool](https://github.com/pawankumarlimba/musicnextjs-main)** - Website to show different courses of music
+## 📂 Featured Projects  
 
-## Getting Started
+1. **[CpCheats](https://www.cpcheats.in/)** – AI-powered coding prep platform with 40+ algorithm templates, real-time code execution, collaborative editor, and AI-driven mock interviews.  
+2. **[Consulting Club Website](https://consultingclubnita.in/)** – Full-stack event management platform with 500+ users, API integration for automated validation, and email automation.  
+3. **[Satyarama Group Website](https://satyaramagroup.com/)** – Freelance project delivering a business website built with Next.js & Tailwind CSS, optimized for SEO and performance (95+ Lighthouse score).  
 
-To dive into any of these projects, simply navigate to the project's directory and follow the instructions provided in the README file.
+---
 
-## Feedback and Contributions
+## 🛠️ Tech Stack  
 
-Feedback and contributions are highly appreciated! If you have any suggestions, bug reports, or ideas for collaboration, feel free to open an issue or submit a pull request. Let's collaborate and build something amazing together!
+- **Languages:** C/C++, JavaScript, TypeScript, SQL, Python  
+- **Frontend:** React.js, Next.js, Tailwind CSS, NextUI  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **System Design:** Low-Level Design (LLD), OOP, DBMS  
+- **Other Tools:** Git, GitHub, VS Code, Socket.io, Peer.js  
 
-## Connect with Me
+---
 
-Let's connect and discuss exciting opportunities! You can reach out to me on:
+## 🌟 Achievements  
 
-- [LinkedIn](https://www.linkedin.com/in/pawan-kumar-485903270/)
-- [Portfolio](https://portfolio-pawankumarlimbas-projects.vercel.app/)
+- **LeetCode** – 340+ problems solved, **Top 9.8%**, Max Rating **1824**, Global Rank **1340 (Top 4.17%)**.  
+- **GeeksforGeeks** – 250+ problems solved, **Institute Rank 162**.  
+- **HackerRank** – [Profile](https://www.hackerrank.com/profile/pawankumarlimba1)  
+  - 🏅 **5⭐ in SQL**  
+  - 📜 **SQL (Basic) Certificate**  
+  - 📜 **SQL (Intermediate) Certificate**  
+- Finalist – **HackNita & Game of Codes**, among 500+ participants.  
 
-I'm always open to networking and discussing technology, programming, or anything else that interests you!
+---
 
-<!--
-**pawankumarlimba/pawankumarlimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Leadership & Mentorship  
 
-Here are some ideas to get you started:
+- **Web Development Lead, DCC NIT Agartala** – Mentored **500+ juniors**, guiding them in starting their web development journey.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Connect With Me  
+
+- [LinkedIn](https://www.linkedin.com/in/pawan-kumar-485903270/)  
+- [Portfolio](https://portfolio-pawankumarlimbas-projects.vercel.app/)  
+- [GitHub](https://github.com/pawankumarlimba)  
+- [HackerRank](https://www.hackerrank.com/profile/pawankumarlimba1)  
+
+I’m always excited to collaborate on **full-stack projects, open-source contributions, and innovative ideas**. Let’s build something impactful together! 🚀  
