@@ -54,7 +54,7 @@ I specialize in **React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, T
 ## 📬 Connect With Me  
 
 - [LinkedIn](https://www.linkedin.com/in/pawan-kumar-485903270/)  
-- [Portfolio](https://portfolio-pawankumarlimbas-projects.vercel.app/)  
+- [Portfolio](https://pawan-kumar-portfplio.vercel.app/)  
 - [GitHub](https://github.com/pawankumarlimba)  
 - [HackerRank](https://www.hackerrank.com/profile/pawankumarlimba1)  
 
